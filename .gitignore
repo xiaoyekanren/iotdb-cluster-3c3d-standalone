@@ -1,0 +1,5 @@
+.DS_Store
+iotdb/lib
+iotdb/logs
+iotdb/data
+
